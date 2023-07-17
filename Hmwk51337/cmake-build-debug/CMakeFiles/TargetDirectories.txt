@@ -1,0 +1,3 @@
+C:/Users/12102/Desktop/1337HMWKS/Hmwk51337/cmake-build-debug/CMakeFiles/Hmwk51337.dir
+C:/Users/12102/Desktop/1337HMWKS/Hmwk51337/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12102/Desktop/1337HMWKS/Hmwk51337/cmake-build-debug/CMakeFiles/rebuild_cache.dir

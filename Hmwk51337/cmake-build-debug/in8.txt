@@ -1,0 +1,16 @@
+3
+1
+100
+100.99
+Uhura
+5 Enterprise
+1
+200
+50.1
+Mc Coy
+6 Enterprise
+2
+100.
+100#
+100
+4

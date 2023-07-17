@@ -1,0 +1,21 @@
+//getline eof
+//do while is good for menus
+//of stream deletes the contents of the file
+//.fail, checks to see if the file openend properly
+//insert<< write
+// extract >> read
+//infile reads until a space (bad)
+//get line()
+//sentinel want to stop user input
+
+//original arrays
+/*cout<< "Original arrays:"<<"\n"<< "----------------"<<"\n";
+cout<< fixed<< left;
+cout<<setw(10) << "index"<< setw(10)<<"netID"<< setw(10)<< "major" << setw(10)<< "GPA";
+cout<<setw(10) << "index"<< setw(10)<<"netID"<< setw(10)<< "major" << setw(10)<< "GPA";
+for (int i=0; i<NUM_ELMTS; i++){
+    cout<<fixed<<right<<setw(10)<<i<< setw(10)<< netID[i]<< setw(10)<< major[i]<<setw(10)<< setprecision(2)<< GPA[i]<<"";
+    if ((i+1)%2==0)
+        cout<<endl;
+}
+ */
